@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.terraform/modules/acm_certificate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.terraform/modules/frontend_cdn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.terraform/modules/frontend_cdn.distribution_label" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.terraform/modules/frontend_cdn.dns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.terraform/modules/frontend_cdn.logs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.terraform/modules/frontend_s3_bucket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.terraform/modules/frontend_s3_bucket.label" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.terraform/modules/frontend_s3_bucket.s3_user" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.terraform/modules/frontend_s3_bucket.s3_user.s3_user" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.terraform/modules/terraform_state_backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.terraform/modules/terraform_state_backend.base_label" vcs="Git" />
+  </component>
+</project>
