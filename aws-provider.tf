@@ -4,4 +4,5 @@ provider "aws" {
     role_arn = "arn:aws:iam::${var.ACCOUNT_ID}:role/terraform-role"
   }
   region = var.region
+  version = "v2.70.0"
 }
